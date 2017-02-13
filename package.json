@@ -17,5 +17,19 @@
     "gulp-sass": "^3.1.0",
     "gulp-uglify": "^2.0.1",
     "jsdoc": "^3.4.3"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "express-jwt": "^5.1.0",
+    "express-session": "^1.15.1",
+    "jsonwebtoken": "^7.2.1",
+    "lodash": "^4.17.4",
+    "mongodb": "^2.2.23",
+    "mongoskin": "^2.1.0",
+    "q": "^1.4.1",
+    "request": "^2.79.0",
+    "rootpath": "^0.1.2"
   }
 }
